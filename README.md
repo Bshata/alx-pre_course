@@ -1,1 +1,1 @@
-Hello i have edited the text inside the main readme file and it feels great
+For you to pull contents of the git form online to offline , we use the git pull oring command
